@@ -1,4 +1,4 @@
-<hr/>
+
 <h1 align='center'>Certificates</h1>
 <br/>
 <ul>
@@ -10,4 +10,3 @@
   <li>MongoDB with Node.js</li>
 </ul>
 <br/>
-<hr/>
