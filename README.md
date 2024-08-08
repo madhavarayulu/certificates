@@ -8,5 +8,6 @@
   <li>Authentication & Authorization</li>
   <li>MongoDB</li>
   <li>MongoDB with Node.js</li>
+  <li>Back End Development and APIs</li>
 </ul>
 <br/>
